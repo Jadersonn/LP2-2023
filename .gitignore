@@ -1,1 +1,4 @@
-txt.txt
+#ignorando o bin
+bin/lp2/
+#ignorando o txt
+/txt.txt  
